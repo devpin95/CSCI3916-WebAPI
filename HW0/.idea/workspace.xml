@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25b37238-3318-4ac6-9c35-08958924e33f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/googlebooks.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/googlebooks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/week1/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/utils/googlebooks.js" beforeDir="false" afterPath="$PROJECT_DIR$/week1/utils/googlebooks.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +33,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1XBHjGEPrR9ZJVfV1MAkkSH2TVc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -40,10 +47,11 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="" />
     <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -51,7 +59,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Node.js.Google Books">
-    <configuration name="Google Books" type="NodeJSConfigurationType" application-parameters="books --phrase &quot;turing&quot;" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Google Books" type="NodeJSConfigurationType" application-parameters="books --phrase &quot;turing&quot;" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -105,6 +113,7 @@
       <workItem from="1548092679893" duration="241000" />
       <workItem from="1548093242743" duration="143000" />
       <workItem from="1580512708769" duration="948000" />
+      <workItem from="1580685074111" duration="1297000" />
     </task>
     <servers />
   </component>
@@ -115,6 +124,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580685089142">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1580685089142" />
+    <state width="1259" height="116" key="GridCell.Tab.0.bottom" timestamp="1580708795391">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="116" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580708795391" />
+    <state width="1259" height="116" key="GridCell.Tab.0.center" timestamp="1580708795390">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="116" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580708795390" />
+    <state width="1259" height="116" key="GridCell.Tab.0.left" timestamp="1580708795390">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="116" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580708795390" />
+    <state width="1259" height="116" key="GridCell.Tab.0.right" timestamp="1580708795391">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="116" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580708795391" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1580685113723">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1580685113723" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

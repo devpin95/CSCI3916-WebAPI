@@ -1,0 +1,22 @@
+header definitions found at
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
+
+RESPONSE HEADERS: {
+  expires: the date an time until the response is stale,
+  date: the date an time when the response was made,
+  'cache-control': determines the cache mode for the response and request,
+  etag: an id for the resource,
+  vary: used to determine if a new request should be made or if the cached response is still good,
+  'content-type': the data format (json, html, etc.),
+  'x-content-type-options': turns off mime sniffing,
+  'x-frame-options': flags that the page can be rendered in a frame, iframe, embed, or object tags
+  'x-xss-protection': enables cross-size scripting (XSS) filtering,
+  'content-length': the size the the response data in bytes,
+  server: information about the server that responded,
+  'alt-svc': list of ways to use the service,
+  connection: determines the state of the connection after a transaction
+}
+REQUEST HEADERS:  {
+  Accept: the content-types that the client will accept,
+  'User-Agent': string used by server to identify characteristics of the user agent
+}
